@@ -1,0 +1,33 @@
+{
+    "34e51e40-1041-454a-9381-42a73feb991a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Brick_By_Brick_Thumb.tex.nasset"
+    },
+    "4880cc44-b0c9-9b9f-cf5c-5bc2b242365d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/2D Platformer.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "7d9246d6-97ee-4d87-9d93-2c162876bedf": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Brick by Brick",
+        "thumbnail": "34e51e40-1041-454a-9381-42a73feb991a",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "8d86c615-0a25-25b2-eb09-96d341f01cb5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Brick by Brick.scene.nasset"
+    },
+    "e4a15f48-9713-17c7-39b8-c36aa2b9c779": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "guid": "e4a15f48-9713-17c7-39b8-c36aa2b9c779"
+}
